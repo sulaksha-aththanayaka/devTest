@@ -8,7 +8,7 @@ function App() {
     <>
     <div>
       <div className='flex justify-center items-center h-[90vh] bg-green-400 m-10'>
-        <h1 className='bg-red-400 text-4xl p-5'>Hello World 2!</h1>
+        <h1 className='bg-red-400 text-4xl p-5'>Hello World 3!</h1>
       </div>
     </div>
       
